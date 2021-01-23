@@ -592,7 +592,6 @@
             }
             
         .container1:hover .child3{transform: translatey(-140px);padding: 5px 5px 10px 10px;}
-}
         .container1:hover .child4{transition:all 1s ease-in-out 3s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
         .container1:hover .child5{transition:all 1s ease-in-out 6s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
         .container1:hover .child6{transition:all 1s ease-in-out 9s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
