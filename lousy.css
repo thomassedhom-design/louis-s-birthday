@@ -536,7 +536,7 @@
             border:1px solid rgb(95, 95, 95);
             position:absolute;top:-71px;left:-31px;
             transition:all 1.5s ease-in-out;
-            background-color: #D5D8DC;
+            background-color: #dbcdcb;
             z-index:4;
             position:absolute;
             height:52px;
@@ -613,5 +613,5 @@
         .container1:hover .child22{transition:all 1s ease-in-out 57s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
         .container1:hover .child23{transition:all 1s ease-in-out 60s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
         .container1:hover .child24{transition:all 1s ease-in-out 63s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
-        .container1:hover .child25{transition:all 1s ease-in-out 64s; transform: translatez(22px) translatey(8px) rotatex(3deg) scale(1, 0.7) ;z-index: 50;}
+        .container1:hover .child25{transition:all 1s ease-in-out 64s; transform: translatez(41px) translatey(-29px) rotatex(3deg) scale(1, 0.7) ;z-index: 50;}
         }
