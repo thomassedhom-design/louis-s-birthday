@@ -593,26 +593,26 @@ body{display:flex}
             
         .container1:hover .child3{transform: translatey(-140px);padding: 5px 5px 10px 10px;}
 }
-        .container1:hover .child4{transition:all 1s ease-in-out 3s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child5{transition:all 1s ease-in-out 6s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child6{transition:all 1s ease-in-out 9s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child7{transition:all 1s ease-in-out 12s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child8{transition:all 1s ease-in-out 15s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child9{transition:all 1s ease-in-out 18s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child10{transition:all 1s ease-in-out 21s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child11{transition:all 1s ease-in-out 24s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child12{transition:all 1s ease-in-out 27s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child13{transition:all 1s ease-in-out 30s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child14{transition:all 1s ease-in-out 33s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child15{transition:all 1s ease-in-out 36s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child16{transition:all 1s ease-in-out 39s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child17{transition:all 1s ease-in-out 42s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child18{transition:all 1s ease-in-out 45s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child19{transition:all 1s ease-in-out 48s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child20{transition:all 1s ease-in-out 51s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child21{transition:all 1s ease-in-out 54s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child22{transition:all 1s ease-in-out 57s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child23{transition:all 1s ease-in-out 60s; transform:rotatey(50deg)translatez(195px) scale(1, 0.7) ;}
-        .container1:hover .child24{transition:all 1s ease-in-out 63s; transform:rotatey(-50deg)translatez(195px) scale(1, 0.7) ;}
+        .container1:hover .child4{transition:all 1s ease-in-out 3s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child5{transition:all 1s ease-in-out 6s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child6{transition:all 1s ease-in-out 9s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child7{transition:all 1s ease-in-out 12s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child8{transition:all 1s ease-in-out 15s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child9{transition:all 1s ease-in-out 18s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child10{transition:all 1s ease-in-out 21s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child11{transition:all 1s ease-in-out 24s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child12{transition:all 1s ease-in-out 27s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child13{transition:all 1s ease-in-out 30s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child14{transition:all 1s ease-in-out 33s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child15{transition:all 1s ease-in-out 36s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child16{transition:all 1s ease-in-out 39s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child17{transition:all 1s ease-in-out 42s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child18{transition:all 1s ease-in-out 45s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child19{transition:all 1s ease-in-out 48s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child20{transition:all 1s ease-in-out 51s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child21{transition:all 1s ease-in-out 54s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child22{transition:all 1s ease-in-out 57s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child23{transition:all 1s ease-in-out 60s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
+        .container1:hover .child24{transition:all 1s ease-in-out 63s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
         .container1:hover .child25{transition:all 1s ease-in-out 64s; transform: translatez(280px) translatey(8px) rotatex(3deg) scale(1, 0.7) ;z-index: 50;}
         }
