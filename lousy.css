@@ -532,7 +532,7 @@ body{display:flex}
         .child25{font-size:25px; 
             width:253px;
             padding:95px 22px 71px 40px;
-            font-size:30px;
+            font-size:27px;
             border:1px solid rgb(95, 95, 95);
             position:absolute;top:-71px;left:-31px;
             transition:all 1.5s ease-in-out;
@@ -614,5 +614,5 @@ body{display:flex}
         .container1:hover .child22{transition:all 1s ease-in-out 57s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
         .container1:hover .child23{transition:all 1s ease-in-out 60s; transform:rotatey(50deg)translatez(192px) scale(1, 0.7) ;}
         .container1:hover .child24{transition:all 1s ease-in-out 63s; transform:rotatey(-50deg)translatez(192px) scale(1, 0.7) ;}
-        .container1:hover .child25{transition:all 1s ease-in-out 64s; transform: translatez(280px) translatey(8px) rotatex(3deg) scale(1, 0.7) ;z-index: 50;}
+        .container1:hover .child25{transition:all 1s ease-in-out 64s; transform: translatez(22px) translatey(8px) rotatex(3deg) scale(1, 0.7) ;z-index: 50;}
         }
